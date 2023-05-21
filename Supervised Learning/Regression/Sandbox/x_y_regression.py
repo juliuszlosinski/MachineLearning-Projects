@@ -15,7 +15,7 @@ test_x_data = learn_x_data
 
 #####################################################
 
-print(f"X: {learn_x_data}, Y: {learn_y_data}")
+print(f"X: {learn_x_data}, \nY: {learn_y_data}")
 
 linear_regression_model = LinearRegression()
 linear_regression_model.fit(learn_x_data, learn_y_data)
