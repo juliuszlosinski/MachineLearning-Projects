@@ -14,7 +14,9 @@ Not my images ;) (no copyrights):
 #
 ![inbox_221701_d684dec3640d341cba5bbecf5b14cf20_machine_learning_roadmap](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/2b9fe4c1-1580-43c8-b7ee-304225734203)
 #
-![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/82d307b9-f9cb-43bf-b8e1-d36cb749472c)
+![1_rbaxTrB_CZCqbty_zv2bEg (1)](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/7c96b6b5-0554-49f6-9b02-5d78cf161a27)
+#
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/23f85f20-bf7f-4395-9139-523a6e838915)
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/985b36e4-c4ac-4e99-8706-9df9960253f2)
 
