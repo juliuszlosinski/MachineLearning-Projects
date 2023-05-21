@@ -1,7 +1,7 @@
 # MachineLearning-Projects
 Machine Learning - Projects.
 
-Not my images ;):
+Not my images ;) (no copyrights):
 
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/f927d833-97bd-4e07-96be-e7252fe0a347)
