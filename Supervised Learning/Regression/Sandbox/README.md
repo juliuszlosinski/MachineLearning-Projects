@@ -1,1 +1,1 @@
-![Screenshot](x_y_regression.png)
+![Screenshot](x_y_linear_regression.png)
