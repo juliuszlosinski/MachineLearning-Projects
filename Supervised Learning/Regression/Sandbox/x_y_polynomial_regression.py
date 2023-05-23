@@ -29,9 +29,11 @@ print(f"Coefficients = {coefficients}")
 
 predicted_values = linear_regreesion_model.predict(training_input_x_data)
 
-plt.scatter(training_input_x_data, training_output_y_data)
-plt.plot(training_input_x_data, predicted_values)
+plt.scatter(training_input_x_data, training_output_y_data, color="blue", label="default")
+plt.plot(training_input_x_data, predicted_values, color="green", label=f"y = f(x) = {coefficients}*x + {intercept}")
 plt.title("F(x) = y => Linear Regression Model")
+plt.legend()
+plt.grid(True)
 plt.xlabel("x [-]")
 plt.ylabel("y [-]")
 plt.show()
