@@ -43,7 +43,7 @@ X_poly = poly_regression_model.fit_transform(training_input_x_data)
 poly_regression_model = skl.LinearRegression()
 poly_regression_model.fit(X_poly, training_output_y_data)
 
-r_sqr = poly_regression_model.score(training_input_x_data, training_output_y_data)
+r_sqr = poly_regression_model.score(X_poly, training_output_y_data)
 intercept = poly_regression_model.intercept_
 coefficients - poly_regression_model.coef_
 
@@ -51,10 +51,12 @@ print(f"R^2 = {r_sqr}")
 print(f"Intercept = {intercept}")
 print(f"Coefficients = {coefficients}")
 
-predicted_output_values = poly_regression_model.predict(training_input_x_data)
-plt.scatter(training_input_x_data, training_output_y_data)
-plt.plot(training_input_x_data, predicted_output_values)
+predicted_output_values = poly_regression_model.predict(X_poly)
+
+plt.scatter(training_input_x_data, training_output_y_data, color="blue")
+plt.plot(training_input_x_data, predicted_output_values, color="green")
 plt.xlabel("x [-]")
 plt.ylabel("y [-]")
+plt.grid(True)
 plt.title("F(x) = y => Polynomial Regreesion model")
 plt.show()
