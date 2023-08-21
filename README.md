@@ -31,7 +31,7 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a6608bd-df29-4b82-a2f5-f9b3f2853daa)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/8ed378f0-5116-46d7-b3d8-9c1f0f5b65f9)
 
-# 1.1 Data splitting
+## 1.1 Data splitting
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/d46f4b7d-928f-4d5e-b958-be9a03b0d480)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1c1bebc8-11de-4a67-84f3-e92b64331c9d)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/0968dcf0-7ce0-4b3d-8f50-4961bdb3ca1b)
