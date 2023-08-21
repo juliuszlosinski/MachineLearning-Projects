@@ -23,6 +23,9 @@ Not my images ;) (no copyrights):
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/9bf3b1a1-be8e-49ed-9540-01ac6407394c)
 
+#
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/048b81ff-028d-46d1-a6be-201a0105e1c0)
+
 # 1. Data preprocessing.
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a6608bd-df29-4b82-a2f5-f9b3f2853daa)
