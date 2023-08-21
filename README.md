@@ -20,9 +20,17 @@ Not my images ;) (no copyrights):
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/985b36e4-c4ac-4e99-8706-9df9960253f2)
 
-# 1. Supervised Learning
+#
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/9bf3b1a1-be8e-49ed-9540-01ac6407394c)
 
-## 1.1 Regression
+# 1. Data preprocessing.
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a6608bd-df29-4b82-a2f5-f9b3f2853daa)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/8ed378f0-5116-46d7-b3d8-9c1f0f5b65f9)
+
+# 2. Supervised Learning
+
+## 2.1 Regression
 
 ![1_0V_GsMAi2zN0OcNi7hm-vw](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6b74e795-4c6e-41a6-969b-6cd0383f81c3)
 ![types-of-regression](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/3f97f217-591b-4673-ba16-57c3b9dd912a)
