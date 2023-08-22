@@ -36,6 +36,15 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1c1bebc8-11de-4a67-84f3-e92b64331c9d)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/0968dcf0-7ce0-4b3d-8f50-4961bdb3ca1b)
 
+## 1.2 Feature scaling
+
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/7ccfa828-37f6-43c2-836e-c77452929f32)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/bebafa89-e925-440d-b95e-94871304c259)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/2e08c0a5-c52e-4fcc-aa84-1fd8c9c20675)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/b5294f0b-7d78-47be-a8a7-ea84f166b69a)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/56a5c705-faca-4779-8085-814063b040d7)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/69a35edf-f13e-4226-ac36-452885ab53e8)
+
 
 # 2. Supervised Learning
 
