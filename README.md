@@ -1,4 +1,3 @@
-![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6866f3d9-350c-4aa6-92eb-ba60a601bd0b)# MachineLearning-Projects
 Machine Learning - Projects.
 
 Not my images ;) (no copyrights):
