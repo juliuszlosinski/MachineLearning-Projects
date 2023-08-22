@@ -1,4 +1,4 @@
-# MachineLearning-Projects
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6866f3d9-350c-4aa6-92eb-ba60a601bd0b)# MachineLearning-Projects
 Machine Learning - Projects.
 
 Not my images ;) (no copyrights):
@@ -41,9 +41,13 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/7ccfa828-37f6-43c2-836e-c77452929f32)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/bebafa89-e925-440d-b95e-94871304c259)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/2e08c0a5-c52e-4fcc-aa84-1fd8c9c20675)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/c3cbbbc7-3fb7-4f9b-b002-9e59b5e0ae12)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/b5294f0b-7d78-47be-a8a7-ea84f166b69a)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/69a35edf-f13e-4226-ac36-452885ab53e8)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/dad76a04-2109-4f37-a473-05bcb26d5c1d)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/2e9af4b1-49b4-4946-8646-94177b278013)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/56a5c705-faca-4779-8085-814063b040d7)
+
 
 # 2. Supervised Learning
 
