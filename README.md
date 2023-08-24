@@ -36,6 +36,7 @@ Not my images ;) (no copyrights):
 
 ## 0.2 SciPy
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/ee63636e-d442-4d7f-acf0-75c1bfde3eb3)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/e5cf9dce-3ff7-4204-863a-b93ae8285c4c)
 
 # 1. Data preprocessing
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
