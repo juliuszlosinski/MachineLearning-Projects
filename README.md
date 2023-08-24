@@ -30,7 +30,7 @@ Not my images ;) (no copyrights):
 ## 0.1 Numpy
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/ccd39c99-2f19-4b0b-a2e7-b02977cb5e68)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6f3c003d-ed6b-405d-87ae-c6e4705717b4)
-
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/d6f72377-0b0f-4d41-a3f8-7ea1a915506a)
 
 # 1. Data preprocessing
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
