@@ -25,6 +25,13 @@ Not my images ;) (no copyrights):
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/048b81ff-028d-46d1-a6be-201a0105e1c0)
 
+# 0. Python ML libraries
+
+## 0.1 Numpy
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/ccd39c99-2f19-4b0b-a2e7-b02977cb5e68)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6f3c003d-ed6b-405d-87ae-c6e4705717b4)
+
+
 # 1. Data preprocessing
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a6608bd-df29-4b82-a2f5-f9b3f2853daa)
