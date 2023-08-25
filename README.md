@@ -50,6 +50,8 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a6608bd-df29-4b82-a2f5-f9b3f2853daa)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/8ed378f0-5116-46d7-b3d8-9c1f0f5b65f9)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/7bab64d6-7660-4025-9be5-b61d2616cf39)
+
 
 ## 1.1 Data splitting
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/d46f4b7d-928f-4d5e-b958-be9a03b0d480)
