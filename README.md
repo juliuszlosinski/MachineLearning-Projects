@@ -52,7 +52,6 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/8ed378f0-5116-46d7-b3d8-9c1f0f5b65f9)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/7bab64d6-7660-4025-9be5-b61d2616cf39)
 
-
 ## 1.1 Data splitting
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/d46f4b7d-928f-4d5e-b958-be9a03b0d480)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1c1bebc8-11de-4a67-84f3-e92b64331c9d)
@@ -70,6 +69,14 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/2e9af4b1-49b4-4946-8646-94177b278013)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/56a5c705-faca-4779-8085-814063b040d7)
 
+## 1.3 Replacing missing values (averaging, delating)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a85b3d7-ae44-42c2-aa90-b9abf9b1d55d)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/33f33b60-019c-4580-abfb-91702a710f72)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6b505fe8-2e38-44a3-9bdc-0fabe10120bc)
+
+## 1.4 One hot encoding (categorical data)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/962f393f-8014-4c6b-ba51-d38ee2e4d017)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/c4201901-dfc2-4de1-9d95-294a5b62e538)
 
 # 2. Supervised Learning
 
