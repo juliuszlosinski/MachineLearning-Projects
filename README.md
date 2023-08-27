@@ -69,7 +69,7 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/2e9af4b1-49b4-4946-8646-94177b278013)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/56a5c705-faca-4779-8085-814063b040d7)
 
-## 1.3 Replacing missing values (averaging, delating)
+## 1.3 Replacing missing values (averaging, deleting)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a85b3d7-ae44-42c2-aa90-b9abf9b1d55d)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/33f33b60-019c-4580-abfb-91702a710f72)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6b505fe8-2e38-44a3-9bdc-0fabe10120bc)
