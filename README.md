@@ -79,6 +79,12 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/c4201901-dfc2-4de1-9d95-294a5b62e538)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/a59ebc25-004f-4eed-b414-112221e31a74)
 
+## 1.5 Label Encoding
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1fe138c1-f806-456d-97eb-342d4314971f)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/15888e14-977e-4fc2-a52d-c40e508ccaff)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/cbf16a2f-1e89-43d1-99e2-fb7b9f07475d)
+
+
 # 2. Supervised Learning
 
 ## 2.1 Regression
