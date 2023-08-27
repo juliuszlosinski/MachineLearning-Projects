@@ -77,6 +77,7 @@ Not my images ;) (no copyrights):
 ## 1.4 One hot encoding (categorical data)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/962f393f-8014-4c6b-ba51-d38ee2e4d017)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/c4201901-dfc2-4de1-9d95-294a5b62e538)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/a59ebc25-004f-4eed-b414-112221e31a74)
 
 # 2. Supervised Learning
 
