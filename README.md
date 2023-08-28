@@ -45,7 +45,6 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/76b1b531-5db2-4caa-b65a-c5a93e11c185)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/91cfd1c8-2421-44da-9b18-b172a16aedc7)
 
-
 # 1. Data preprocessing
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/5200d10c-9390-429a-8391-28818e486fcb)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1a6608bd-df29-4b82-a2f5-f9b3f2853daa)
@@ -83,8 +82,7 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1fe138c1-f806-456d-97eb-342d4314971f)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/15888e14-977e-4fc2-a52d-c40e508ccaff)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/cbf16a2f-1e89-43d1-99e2-fb7b9f07475d)
-![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/50c4cec1-f11d-43ba-a690-36f1eb20fbe7)
-
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/421fd445-4892-48ca-8349-425a779c2b4f)
 
 # 2. Supervised Learning
 
