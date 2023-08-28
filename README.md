@@ -83,6 +83,7 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/1fe138c1-f806-456d-97eb-342d4314971f)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/15888e14-977e-4fc2-a52d-c40e508ccaff)
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/cbf16a2f-1e89-43d1-99e2-fb7b9f07475d)
+![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/50c4cec1-f11d-43ba-a690-36f1eb20fbe7)
 
 
 # 2. Supervised Learning
