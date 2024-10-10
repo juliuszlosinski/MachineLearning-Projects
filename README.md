@@ -15,6 +15,8 @@
 #
 ![1_rbaxTrB_CZCqbty_zv2bEg (1)](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/7c96b6b5-0554-49f6-9b02-5d78cf161a27)
 #
+![image](https://github.com/user-attachments/assets/21062483-15c3-491d-9073-8fb07578a3fa)
+#
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/23f85f20-bf7f-4395-9139-523a6e838915)
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/985b36e4-c4ac-4e99-8706-9df9960253f2)
@@ -139,3 +141,13 @@
 ![image](https://github.com/user-attachments/assets/42c1e129-1658-49f2-a2db-98334355f3a1)
 ![image](https://github.com/user-attachments/assets/0b85c74f-6af3-4695-9020-a61ee120fe64)
 ![image](https://github.com/user-attachments/assets/9754cb12-b5e9-4e59-bfd6-8e603fa37e2c)
+
+# 7. Model selection
+![image](https://github.com/user-attachments/assets/eaf642e8-3855-4156-bb17-a6379c3fc9b5)
+![image](https://github.com/user-attachments/assets/d944a55b-400c-4dae-a53c-5a7b4e4c2fd9)
+![image](https://github.com/user-attachments/assets/8b9e793e-84de-44d1-8bc3-5a8ef1af3df9)
+![image](https://github.com/user-attachments/assets/1be6e272-2e1d-4714-98d7-a7063084ebd2)
+![image](https://github.com/user-attachments/assets/0ce6dfcc-0b5e-4375-85af-9563879a83c4)
+![image](https://github.com/user-attachments/assets/77602a77-9662-4f0c-b070-4fefd4e8db50)
+![image](https://github.com/user-attachments/assets/bde6861b-6b3f-42d7-a05e-163e985f86e2)
+![image](https://github.com/user-attachments/assets/506abc41-fd68-4e88-a28a-65afd0618ebe)
