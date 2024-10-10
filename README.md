@@ -1,6 +1,6 @@
-Machine Learning - Projects.
+<b> Machine Learning - Projects </b>
 
-Not my images ;) (no copyrights):
+<i>Not my images ;) (no copyrights)</i>
 
 #
 ![image](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/f927d833-97bd-4e07-96be-e7252fe0a347)
@@ -113,21 +113,27 @@ Not my images ;) (no copyrights):
 ![image](https://github.com/user-attachments/assets/7c3fdad2-f319-4450-b494-b42d283da37d)
 ![image](https://github.com/user-attachments/assets/19640e69-45d1-4034-9a2a-e7b7ba4f81f5)
 
-## 4. Reinforcement Learning
+# 4. Reinforcement Learning
 ![image](https://github.com/user-attachments/assets/1554b26b-6112-48df-b61e-dac0e0f17711)
 ![image](https://github.com/user-attachments/assets/a8623ae3-2a03-47b8-9674-2cc5fa996496)
 ![image](https://github.com/user-attachments/assets/99a15e8c-6ceb-492a-abb9-bdfec567efa9)
 ![image](https://github.com/user-attachments/assets/1ee405f2-39e4-4751-aed3-2f5d9d0e5f52)
 
-## 5. Deep Learning
+# 5. Deep Learning (DL)
+![image](https://github.com/user-attachments/assets/4e514b24-d166-4fbe-8418-f5e4606fa2b8)
+![image](https://github.com/user-attachments/assets/afdd93cd-144e-4b94-917c-8b1c2892267e)
+![image](https://github.com/user-attachments/assets/41944f86-4993-409d-bb0d-c393c5aec09c)
 ![image](https://github.com/user-attachments/assets/befce2d2-9823-45d4-b8b3-c910c5d20af1)
 ![image](https://github.com/user-attachments/assets/9fcd3fe4-f6c5-4721-9136-80f152c83759)
 ![image](https://github.com/user-attachments/assets/64b8c782-1f4e-498b-89d9-cdc7ce0fb913)
 ![image](https://github.com/user-attachments/assets/ffe5940c-bf26-4b36-bbca-9358c50e5d98)
 ![image](https://github.com/user-attachments/assets/5627ec0f-13e1-46b4-88e3-02af87ef6964)
 ![image](https://github.com/user-attachments/assets/db26166c-1cc5-44cc-ba06-da58a1278502)
+![image](https://github.com/user-attachments/assets/889e7578-1dd7-4eaa-8b67-908d52bce65b)
+![image](https://github.com/user-attachments/assets/9fd0c935-1bca-4d38-b965-a503d0c311a2)
+![image](https://github.com/user-attachments/assets/f24be852-65d8-412c-8360-895c8622602d)
 
-## 6. Natural Language Processing
+# 6. Natural Language Processing (NLP)
 ![image](https://github.com/user-attachments/assets/4de0c1e4-c5f7-4b83-9c9e-f9ff836feff3)
 ![image](https://github.com/user-attachments/assets/dca46272-faed-4494-a385-4c418276fa95)
 ![image](https://github.com/user-attachments/assets/42c1e129-1658-49f2-a2db-98334355f3a1)
