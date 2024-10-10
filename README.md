@@ -87,7 +87,49 @@ Not my images ;) (no copyrights):
 # 2. Supervised Learning
 
 ## 2.1 Regression
-
 ![1_0V_GsMAi2zN0OcNi7hm-vw](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/6b74e795-4c6e-41a6-969b-6cd0383f81c3)
 ![types-of-regression](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/3f97f217-591b-4673-ba16-57c3b9dd912a)
 ![6590 1605363659](https://github.com/juliuszlosinski/MachineLearning-Projects/assets/72278818/87d376e0-08f3-4728-8b6f-381601b8f883)
+![image](https://github.com/user-attachments/assets/a9b7bc05-5cf1-4426-8a5b-0bcd038039e9)
+
+## 2.2 Classification
+![image](https://github.com/user-attachments/assets/3f461e29-621c-4f0b-a3d0-2fe05782226f)
+![image](https://github.com/user-attachments/assets/f8af311a-89ac-4d36-ae8c-042e94032ab1)
+
+# 3. Unsupervised Learning
+
+## 3.1 Clustering
+![image](https://github.com/user-attachments/assets/833aa562-7bbb-43ce-8f60-3485ca96534d)
+![image](https://github.com/user-attachments/assets/baf0ae7e-6eae-47b4-836b-07ca2894172a)
+![image](https://github.com/user-attachments/assets/23b55e88-a5d4-4843-83e6-3787af4c7b33)
+
+## 3.2 Dimension Reduction
+![image](https://github.com/user-attachments/assets/9975d3c1-b563-401f-a796-2276fcdcf47f)
+![image](https://github.com/user-attachments/assets/3e49d5c6-db94-40c7-8ab7-170c9a6ae71b)
+![image](https://github.com/user-attachments/assets/9b34f1eb-7c90-4dcf-a910-8705c321951c)
+
+## 3.3 Association Rules
+![image](https://github.com/user-attachments/assets/82d031fa-4845-4653-b642-440e36e2eac1)
+![image](https://github.com/user-attachments/assets/7c3fdad2-f319-4450-b494-b42d283da37d)
+![image](https://github.com/user-attachments/assets/19640e69-45d1-4034-9a2a-e7b7ba4f81f5)
+
+## 4. Reinforcement Learning
+![image](https://github.com/user-attachments/assets/1554b26b-6112-48df-b61e-dac0e0f17711)
+![image](https://github.com/user-attachments/assets/a8623ae3-2a03-47b8-9674-2cc5fa996496)
+![image](https://github.com/user-attachments/assets/99a15e8c-6ceb-492a-abb9-bdfec567efa9)
+![image](https://github.com/user-attachments/assets/1ee405f2-39e4-4751-aed3-2f5d9d0e5f52)
+
+## 5. Deep Learning
+![image](https://github.com/user-attachments/assets/befce2d2-9823-45d4-b8b3-c910c5d20af1)
+![image](https://github.com/user-attachments/assets/9fcd3fe4-f6c5-4721-9136-80f152c83759)
+![image](https://github.com/user-attachments/assets/64b8c782-1f4e-498b-89d9-cdc7ce0fb913)
+![image](https://github.com/user-attachments/assets/ffe5940c-bf26-4b36-bbca-9358c50e5d98)
+![image](https://github.com/user-attachments/assets/5627ec0f-13e1-46b4-88e3-02af87ef6964)
+![image](https://github.com/user-attachments/assets/db26166c-1cc5-44cc-ba06-da58a1278502)
+
+## 6. Natural Language Processing
+![image](https://github.com/user-attachments/assets/4de0c1e4-c5f7-4b83-9c9e-f9ff836feff3)
+![image](https://github.com/user-attachments/assets/dca46272-faed-4494-a385-4c418276fa95)
+![image](https://github.com/user-attachments/assets/42c1e129-1658-49f2-a2db-98334355f3a1)
+![image](https://github.com/user-attachments/assets/0b85c74f-6af3-4695-9020-a61ee120fe64)
+![image](https://github.com/user-attachments/assets/9754cb12-b5e9-4e59-bfd6-8e603fa37e2c)
