@@ -148,6 +148,8 @@
 ![image](https://github.com/user-attachments/assets/8b9e793e-84de-44d1-8bc3-5a8ef1af3df9)
 ![image](https://github.com/user-attachments/assets/1be6e272-2e1d-4714-98d7-a7063084ebd2)
 ![image](https://github.com/user-attachments/assets/0ce6dfcc-0b5e-4375-85af-9563879a83c4)
+
+# 8. Hyperparameter tuning (optimization)
 ![image](https://github.com/user-attachments/assets/77602a77-9662-4f0c-b070-4fefd4e8db50)
 ![image](https://github.com/user-attachments/assets/bde6861b-6b3f-42d7-a05e-163e985f86e2)
 ![image](https://github.com/user-attachments/assets/506abc41-fd68-4e88-a28a-65afd0618ebe)
